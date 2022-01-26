@@ -7,7 +7,7 @@
 
 
 
-# pdf or documentation manuals links
+# pdf or documentation manual links
 
 [pdf sql manual](https://www.halvorsen.blog/documents/tutorials/resources/Structured%20Query%20Language.pdf)
 [pdf vim manual](https://www.tutorialspoint.com/vim/vim_tutorial.pdf)
