@@ -1,2 +1,10 @@
 # Vim_summary
-this summarieses how to use vim
+
+
+
+
+
+
+
+
+[pdf vim manual](https://www.tutorialspoint.com/vim/vim_tutorial.pdf)
