@@ -39,6 +39,7 @@ CRUD - Create Read Update Delete
 
 # Common functions in mySQL
 | Function | mySQL | Description |
+| -------- | ----- | ------------ |
 | Count row | COUNT | Counts the amount of rows |
 | Average column | AVG | Averages the given numbers of a column |
 | Sum | SUM | Sums the given column |
